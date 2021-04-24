@@ -1,1 +1,2 @@
 Primeiro teste do Git Gui em distribuição Linux
+Segundo teste Git Gui Linux
